@@ -21,6 +21,8 @@ class Song
     new_song
   end
   
+  
+  
   def self.all
     @@all 
   end
