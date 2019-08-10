@@ -4,7 +4,9 @@ class Song
  
   def self.all
     @@all 
-  end 
+  end
+  
+  def 
  
  
   def self.create
