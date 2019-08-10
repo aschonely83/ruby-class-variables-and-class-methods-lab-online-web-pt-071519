@@ -22,7 +22,7 @@ class Song
   end
   
   def self.find_by_name(name)
-    self.find
+    self.find_all
   end  
   
   def self.all
