@@ -29,3 +29,10 @@ class Song
         artists_count += 1 
       else
         artists_count += 1 
+      end
+    end
+  end  
+    
+    
+    
+    
