@@ -1,7 +1,8 @@
 class Song 
  attr_accessor :name, :artist_name
  
- def 
+ def self.create
+   
  
  
 end  
