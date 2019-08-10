@@ -6,7 +6,7 @@ class Song
     @@all 
   end
   
-  def 
+  def save
  
  
   def self.create
